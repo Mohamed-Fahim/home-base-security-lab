@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Home Base Security Lab repository! This project aims to provide a comprehensive setup for practicing cybersecurity monitoring and incident response using Docker containers for Wazuh, TheHive, Elasticsearch, and Kibana.
+Welcome to the Home Base Security Lab repository! This project aims to provide a comprehensive setup for practicing cybersecurity monitoring and incident response using Docker and Virtualbox for Wazuh, TheHive, Elasticsearch, and Kibana.
 
 ## About ME
    As a Computer Science graduate with a passion for cybersecurity, I've developed this home base lab to deepen my expertise and prepare for a career transition into a Security Operations Center (SOC) as a Tier 1 Analyst. This repository showcases my hands-on experience with essential security tools like Wazuh, TheHive, Elasticsearch, and Kibana. Through this project, I aim to enhance my skills in threat detection, incident response, and security monitoring, laying a strong foundation for my career in cybersecurity.
